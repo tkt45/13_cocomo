@@ -86,5 +86,5 @@ int main() {
     return 0;
 }
 
-
+// Here in My code I used a random functions to get details of users and their properties like userId , timeofDay , timeSpendMinutes for realtime implementation we have to get actual Visitor details .
 
